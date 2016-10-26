@@ -1,0 +1,6 @@
+<?
+
+class UserController extends Controller
+{
+  //..
+}

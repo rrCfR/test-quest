@@ -1,0 +1,1 @@
+Настроить БД можно в app/other/database.php
